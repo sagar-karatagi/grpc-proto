@@ -1,0 +1,2 @@
+rootProject.name = "grpc-protos"
+include("pm-proto-billing", "pm-proto-patient")
